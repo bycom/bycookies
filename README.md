@@ -31,5 +31,5 @@ More advanced:
 * Internet Explorer 8+
 
 ## Authors and Contributors
-Luis Hebbelinck (@bylhebbelinck)
+Luis Hebbelinck (@bylhebbelinck)  
 Sérgio Santos (@s3rgiosan)
