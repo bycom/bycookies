@@ -30,10 +30,9 @@ $('body').bycookies({
 ```
 
 ## Browser Support
-* Mozilla Firefox 5+
-* Google Chrome 14+
-* Safari 5+
-* Opera 11+
+* Mozilla Firefox 19+
+* Google Chrome 27+
+* Safari 6+
 * Internet Explorer 8+
 
 ## Authors and Contributors
