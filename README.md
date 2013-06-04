@@ -18,10 +18,16 @@ A simple, lightweight jQuery plugin for EU cookie law compliance.
 * cookieDefaults - Cookie domain and expiry date
 
 ## Usage
-`$('body').bycookies();`  
+```
+$('body').bycookies();
+```
 
 More advanced:
-`$('body').bycookies({ declineButton: false });`
+```
+$('body').bycookies({ 
+  declineButton: false 
+});
+```
 
 ## Browser Support
 * Mozilla Firefox 5+
