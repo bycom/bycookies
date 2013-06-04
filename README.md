@@ -33,7 +33,7 @@ $('body').bycookies({
 * Mozilla Firefox 19+
 * Google Chrome 27+
 * Safari 6+
-* Internet Explorer 8+
+* Internet Explorer 7+
 
 ## Authors and Contributors
 Luis Hebbelinck (@bylhebbelinck)  
