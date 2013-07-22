@@ -1,6 +1,9 @@
 # BY Cookies
 A simple, lightweight jQuery plugin for EU cookie law compliance.
 
+## Working demo
+* [http://bycom.github.io/bycookies/](http://bycom.github.io/bycookies/)
+
 ## Dependencies
 * [jQuery Cookie Plugin v1.3.1](https://github.com/carhartl/jquery-cookie)
 
