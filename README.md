@@ -1,8 +1,8 @@
 # BY Cookies
 A simple, lightweight jQuery plugin for EU cookie law compliance.
 
-## Working demo
-* [http://bycom.github.io/bycookies/](http://bycom.github.io/bycookies/)
+## Demo
+* [http://jsfiddle.net/bycom/KvKTA/](http://jsfiddle.net/bycom/KvKTA/)
 
 ## Dependencies
 * [jQuery Cookie Plugin v1.3.1](https://github.com/carhartl/jquery-cookie)
@@ -21,11 +21,13 @@ A simple, lightweight jQuery plugin for EU cookie law compliance.
 * cookieDefaults - Cookie domain and expiry date
 
 ## Usage
+
+Basic:
 ```
 $('body').bycookies();
 ```
 
-More advanced:
+Advanced:
 ```
 $('body').bycookies({ 
   declineButton: false 

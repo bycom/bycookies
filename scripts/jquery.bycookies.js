@@ -1,22 +1,10 @@
+/*
+ * BY Cookies
+ * @author: BY
+ * @url: http://github.com/bycom
+ * @version: 1.0
+ */
 ;(function ($, window, undefined) {
-
-  /*
-   * BY Cookies
-   * 
-   * Usage: 
-   *  $('body').bycookies();
-   *  
-   *  $('body').bycookies({
-   *    declineButton: false
-   *  });
-   * 
-   * Dependencies:
-   *  - jQuery Cookie Plugin v1.3.1 (https://github.com/carhartl/jquery-cookie)
-   *  
-   * @author: BY
-   * @url: http://github.com/bycom
-   * @version: 1.0
-  */
 
   var pluginName = "bycookies",
       defaults = {
